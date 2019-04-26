@@ -7,4 +7,4 @@ Arma 3 Creator DLC: Global Mobilization - Cold War Germany の日本語化を目
 - [ ] シナリオ
 - [ ] マップ名
 - [ ] ユニット名
-- [ ] フォント改良？
+- [x] フォント改良
