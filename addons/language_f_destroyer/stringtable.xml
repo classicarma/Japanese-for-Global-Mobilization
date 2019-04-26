@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project name="Arma3">
+  <Package name="Language_Destroyer">
+    <Container name="Field_Manual_Entries">
+      <Key ID="STR_A3_Ship_Gun_01_hint_description">
+        <Original>The Mk45 Hammer 120mm naval gun provides NATO naval vessels with heavy firepower capability in close and medium ranges. Capable of both direct fire and artillery fire control this powerful gun is essential both in fleet-defence and fire-support roles. This asset is normally deployed on Liberty class destroyers.</Original>
+        <English>The Mk45 Hammer 120mm naval gun provides NATO naval vessels with heavy firepower capability in close and medium ranges. Capable of both direct fire and artillery fire control this powerful gun is essential both in fleet-defence and fire-support roles. This asset is normally deployed on Liberty class destroyers.</English>
+        <Japanese>Mk45 ハンマー 120mm 砲は NATO 軍艦船に近・中距離における火力を与える兵器である。この強力な砲は直射・曲射のどちらも射撃可能であり、艦隊防衛と砲撃支援のどちらにも必須の装備となっている。主にリバティー級駆逐艦に搭載される。</Japanese>
+      </Key>
+      <Key ID="STR_A3_Ship_Gun_01_DLCbrowser_title">
+        <Original>The Mk45 Hammer</Original>
+        <English>The Mk45 Hammer</English>
+        <Japanese>Mk45 ハンマー</Japanese>
+      </Key>
+      <Key ID="STR_A3_Land_Destroyer_01_DLCbrowser_title">
+        <Original>Destroyer [USS Liberty]</Original>
+        <English>Destroyer [USS Liberty]</English>
+        <Japanese>駆逐艦 [USS リバティー]</Japanese>
+      </Key>
+      <Key ID="STR_A3_Land_Destroyer_01_hint_description">
+        <Original>The USS Liberty is one of several newly-built ships of its class. This powerful destroyer serves as part of "NATO Strike Group 14". It can carry troops, equipment and a helicopter on board allowing the battlegroup to perform its vital support roles. With a length of 155 meters and beam of 45 meters it can operate close to shore for rapid amphibious assaults.</Original>
+        <English>The USS Liberty is one of several newly-built ships of its class. This powerful destroyer serves as part of "NATO Strike Group 14". It can carry troops, equipment and a helicopter on board allowing the battlegroup to perform its vital support roles. With a length of 155 meters and beam of 45 meters it can operate close to shore for rapid amphibious assaults.</English>
+        <Japanese>USS リバティーは同リバティー級の新造艦の 1 隻である。この強力な駆逐艦は「NATO 第 14 打撃群」に所属し、兵員や装備、ヘリ 1 機を搭載可能。戦闘群における重要な支援をこなすことができる。全長 155 メートル・全幅 45 メートル。沿岸付近での高速水陸強襲作戦での活動も可能である。</Japanese>
+      </Key>
+    </Container>
+    <Container name="Static_Weapon_Systems">
+      <Key ID="STR_A3_Ship_Gun_01_name">
+        <Original>Mk45 Hammer</Original>
+        <English>Mk45 Hammer</English>
+        <Japanese>Mk45 ハンマー</Japanese>
+      </Key>
+      <Key ID="str_a3_missile_cruise_weapon_name">
+        <Original>Venator Cruise Missile</Original>
+        <English>Venator Cruise Missile</English>
+        <Japanese>ベネター巡航ミサイル</Japanese>
+      </Key>
+    </Container>
+    <Container name="Turret_position_Names">
+      <Key ID="STR_A3_Ship_Gun_01_operator_displayName">
+        <Original>MK45 Hammer operator</Original>
+        <English>MK45 Hammer operator</English>
+        <Japanese>MK45 ハンマー砲手</Japanese>
+      </Key>
+      <Key ID="STR_A3_Ship_MRLS_01_operator_displayName">
+        <Original>Mk41 VLS operator</Original>
+        <English>Mk41 VLS operator</English>
+        <Japanese>Mk41 VLS 砲手</Japanese>
+      </Key>
+    </Container>
+    <Container name="User Actions">
+      <Key ID="STR_A3_action_Recover_Boat">
+        <Original>Recover Boat</Original>
+        <English>Recover Boat</English>
+        <Japanese>ボートを収容</Japanese>
+      </Key>
+      <Key ID="STR_A3_action_Recover_Boat_Left">
+        <Original>Recover Boat (Port Side)</Original>
+        <English>Recover Boat (Port Side)</English>
+        <Japanese>ボートを収容（左舷）</Japanese>
+      </Key>
+      <Key ID="STR_A3_action_Recover_Boat_Right">
+        <Original>Recover Boat (Starboard Side)</Original>
+        <English>Recover Boat (Starboard Side)</English>
+        <Japanese>ボートを収容（右舷）</Japanese>
+      </Key>
+      <Key ID="STR_A3_action_Launch_Boat">
+        <Original>Launch Boat</Original>
+        <English>Launch Boat</English>
+        <Japanese>ボートを展開</Japanese>
+      </Key>
+      <Key ID="STR_A3_action_Launch_Boat_Left">
+        <Original>Launch Boat (Port Side)</Original>
+        <English>Launch Boat (Port Side)</English>
+        <Japanese>ボートを展開（左舷）</Japanese>
+      </Key>
+      <Key ID="STR_A3_action_Launch_Boat_Right">
+        <Original>Launch Boat (Starboard Side)</Original>
+        <English>Launch Boat (Starboard Side)</English>
+        <Japanese>ボートを展開（右舷）</Japanese>
+      </Key>
+    </Container>
+    <Container name="Destroyer_01">
+      <Key ID="STR_A3_Land_Destroyer_01_Name">
+        <Original>Destroyer [USS Liberty]</Original>
+        <English>Destroyer [USS Liberty]</English>
+        <Japanese>駆逐艦 [USS リバティー]</Japanese>
+      </Key>
+      <Key ID="STR_A3_Land_Destroyer_01_01_hull_00_F">
+        <Original>Destroyer [Liberty Class]</Original>
+        <English>Destroyer [Liberty Class]</English>
+        <Japanese>[リバティー級] 駆逐艦</Japanese>
+      </Key>
+      <Key ID="STR_A3_Land_Destroyer_01_hull_base_F">
+        <Original>Destroyer [USS Liberty]</Original>
+        <English>Destroyer [USS Liberty]</English>
+        <Japanese>駆逐艦 [USS リバティー]</Japanese>
+      </Key>
+      <Key ID="STR_A3_Land_Destroyer_01_hull_01_F">
+        <Original>Destroyer Part [USS Liberty]</Original>
+        <English>Destroyer Part [USS Liberty]</English>
+        <Japanese>駆逐艦 [USS リバティー] 用パーツ</Japanese>
+      </Key>
+      <Key ID="STR_A3_Land_Destroyer_01_hull_02_F">
+        <Original>Destroyer Part [USS Liberty]</Original>
+        <English>Destroyer Part [USS Liberty]</English>
+        <Japanese>駆逐艦 [USS リバティー] 用パーツ</Japanese>
+      </Key>
+      <Key ID="STR_A3_Land_Destroyer_01_hull_03_F">
+        <Original>Destroyer Part [USS Liberty]</Original>
+        <English>Destroyer Part [USS Liberty]</English>
+        <Japanese>駆逐艦 [USS リバティー] 用パーツ</Japanese>
+      </Key>
+      <Key ID="STR_A3_Land_Destroyer_01_hull_04_F">
+        <Original>Destroyer Part [USS Liberty]</Original>
+        <English>Destroyer Part [USS Liberty]</English>
+        <Japanese>駆逐艦 [USS リバティー] 用パーツ</Japanese>
+      </Key>
+      <Key ID="STR_A3_Land_Destroyer_01_hull_05_F">
+        <Original>Destroyer Part [USS Liberty]</Original>
+        <English>Destroyer Part [USS Liberty]</English>
+        <Japanese>駆逐艦 [USS リバティー] 用パーツ</Japanese>
+      </Key>
+      <Key ID="STR_A3_Land_Destroyer_01_interior_02_F">
+        <Original>Destroyer Interior [USS Liberty]</Original>
+        <English>Destroyer Interior [USS Liberty]</English>
+        <Japanese>駆逐艦 [USS リバティー] 用内装</Japanese>
+      </Key>
+      <Key ID="STR_A3_Land_Destroyer_01_interior_03_F">
+        <Original>Destroyer Interior [USS Liberty]</Original>
+        <English>Destroyer Interior [USS Liberty]</English>
+        <Japanese>駆逐艦 [USS リバティー] 用内装</Japanese>
+      </Key>
+      <Key ID="STR_A3_Land_Destroyer_01_interior_04_F">
+        <Original>Destroyer Interior [USS Liberty]</Original>
+        <English>Destroyer Interior [USS Liberty]</English>
+        <Japanese>駆逐艦 [USS リバティー] 用内装</Japanese>
+      </Key>
+    </Container>
+  </Package>
+</Project>
